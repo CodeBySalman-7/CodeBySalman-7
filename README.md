@@ -19,10 +19,10 @@ I'm a Web Developer focused on building responsive, modern, and user-friendly we
 
 MERN stack Development
 
-##Goal
+## Goal
 
 To become a professional Full-stack MERN Developer.
 
-**Connect With Me
+## Connect With Me
 
 -GitHub: @CodeBySalman-7
